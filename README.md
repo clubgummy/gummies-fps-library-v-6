@@ -30,3 +30,8 @@
 - **Creating Levels**:
   - Design your levels in the `Scenes` folder.
   - Use provided environment assets or import your own.
+
+ ## License
+
+This project is licensed under the [MIT License](LICENSE).
+
