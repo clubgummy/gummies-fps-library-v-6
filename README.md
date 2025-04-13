@@ -23,7 +23,7 @@
 
 - **Player Setup**:
   - Navigate to `Assets/Prefabs/Player`.
-  - Drag the `PlayerController` prefab into your scene.
+  - Drag the `PlayerController` into a prefab on your scene.
 - **Adding Weapons**:
   - Place weapon prefabs under `Assets/Prefabs/Weapons`.
   - Configure weapon stats via the `WeaponConfig` scriptable objects.
