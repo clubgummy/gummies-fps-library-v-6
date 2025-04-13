@@ -1,12 +1,12 @@
 # Gummies FPS Library v6
 
-**Gummies FPS Library v6** is a modular and extensible first-person shooter (FPS) framework for Unity, designed to accelerate the development of FPS games. It provides a solid foundation with customizable components, allowing developers to focus on game-specific features.
+**Gummies FPS Library v6** is a first-person and third-person shooter framework for Unity designed to accelerate the development of FPS games. 
 
 ## Features
 
 - **Advanced Movement System**: Includes sprinting, crouching, jumping, and sliding mechanics.
 - **Weapon System**: Supports multiple weapon types with customizable firing modes, recoil, and animations.
-- **Inventory Management**: Flexible inventory system with support for pickups, drops, and UI integration.
+- **Inventory Management**: Flexible inventory system supporting pickups, drops, and UI integration.
    
 ## Installation
 
